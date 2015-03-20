@@ -10,6 +10,7 @@ using Business.DataClasses;
 
 namespace Business
 {
+    //stock
     public class PageStocks : INotifyPropertyChanged
     {
 
