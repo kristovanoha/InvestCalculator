@@ -23,6 +23,7 @@ namespace Business
 
         #endregion
 
+
         #region Properties
 
         public bool UseExchange = false; //může dojit ke kurzovým ziskám/ztrátam
